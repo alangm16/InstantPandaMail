@@ -1,0 +1,22 @@
+# --- NetBeans ---
+/build/
+/dist/
+nbproject/private/
+
+# --- Java ---
+*.class
+
+# --- Email credentials ---
+*.properties
+*.env
+config/secrets/
+smtp-config.xml
+
+# --- Logs ---
+*.log
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+target/
