@@ -26,8 +26,6 @@ SMTP servers are defined in a configuration file with the following properties:
 - Password
 - Security (TLS/SSL)
 
-⚠️ **Do not commit real credentials to the repository.**
-
 ## Project Structure
 - src/ → Source code
 - config/ → SMTP configuration files
